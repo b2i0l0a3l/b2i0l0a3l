@@ -8,11 +8,23 @@ I love working with **C#**, **.NET**, and **Entity Framework**, and I’m always
 ---
 
 ### 🧠 **Tech Stack & Skills**
-- **Languages:** C#, C++, JavaScript, HTML, CSS  
-- **Backend:** .NET, Entity Framework, RESTful API development  
-- **Database:** T-SQL, SQL Server  
-- **Principles:** OOP, SOLID, Clean Architecture  
-- **Other Interests:** Software design, performance optimization, and writing clean, reusable code  
+
+#### 🧩 **Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css,js" alt="Languages" />
+</p>
+
+#### 💾 **Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+#### ⚙️ **Core Principles**
+- **OOP (Object-Oriented Programming)**  
+- **SOLID Principles**  
+- **Clean Architecture**  
+- **RESTful API Design**
 
 ---
 
