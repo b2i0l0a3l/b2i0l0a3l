@@ -36,9 +36,12 @@ For me, programming isn’t just a job — it’s a craft that I’m continuousl
 ---
 
 ### 📫 **Get in touch**
-- 💼 [GitHub Profile](https://github.com/b2i0l0a3l)  
 - ✉️ Feel free to connect and collaborate on exciting projects!
 
 ---
+
+
+### 💡 **Favorite Programming Quote**
+> **“Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ⭐ *“Code with clarity, learn with curiosity, and build with passion.”*
