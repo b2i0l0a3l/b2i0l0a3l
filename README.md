@@ -1,63 +1,68 @@
-👋 Hallo, ich bin Bilal
+# 👋 Hallo, ich bin Bilal
 
-💻 Backend-Entwickler aus Marokko
-Ich spezialisiere mich auf die Entwicklung von REST APIs mit ASP.NET Core und arbeite mit modernen Technologien wie PostgreSQL und Next.js.
+### 💻 Backend- & Fullstack-Entwickler aus Marokko
+Ich entwickle skalierbare Webanwendungen und strebe derzeit eine **Ausbildung als Fachinformatiker für Anwendungsentwicklung** in Deutschland an.
 
-🚀 Über mich
+---
 
-🎯 Ziel: Ausbildung als Fachinformatiker (Anwendungsentwicklung) in Deutschland
+## 🚀 Über mich
 
-💡 Fokus: Backend-Entwicklung & saubere Architektur
+* 🎯 **Ziel:** Ausbildung in der Softwareentwicklung (Start 2025/2026).
+* 💡 **Fokus:** Backend-Architektur, Clean Code und Performance.
+* 🧠 **Problemlösung:** Ich liebe es, komplexe Logik in einfache, effiziente Lösungen zu verwandeln.
+* ⚡ **Agilität:** Schnelle Auffassungsgabe für neue Tech-Stacks und Arbeitsweisen.
 
-🔐 Erfahrung mit Authentifizierung (JWT) und Datenbanken
+---
 
-⚡ Ich lerne schnell und arbeite gerne an echten Projekten
+## 🛠 Tech Stack
 
-💻 Technologien & Tools
-![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-green?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
+### 🖥️ Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### 🗄️ Datenbanken
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### ⚙️ Konzepte & Tools
+![SOLID](https://img.shields.io/badge/SOLID-Principles-green?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=flat-square)
 
+---
 
+## 🧠 Projekte
 
+### [Task Manager API](https://github.com/b2i0l0a3l/TaskManager)
+> Eine robuste REST-API zur Aufgabenverwaltung.
+* **Technologien:** ASP.NET Core, PostgreSQL, JWT Authentication.
+* **Features:** Rollenbasiertes Rechtesystem (RBAC), sichere Authentifizierung.
 
-🧠 Projekte
-🔹 Task Manager API
+### [POS System (Point of Sale)](https://github.com/b2i0l0a3l)
+> Vollständige Fullstack-Anwendung für den Einzelhandel.
+* **Backend:** ASP.NET Core (Business Logic & API).
+* **Frontend:** Next.js für ein schnelles, SEO-optimiertes UI.
+* **Datenbank:** PostgreSQL.
 
-REST API mit ASP.NET Core
+---
 
-Benutzer-Authentifizierung mit JWT
+## 📊 GitHub Stats
+![Bilals GitHub Stats](https://github-readme-stats.vercel.app/api?username=b2i0l0a3l&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b2i0l0a3l&layout=compact&theme=radical)
 
-PostgreSQL Datenbank
+---
 
-Rollen & Berechtigungen (Authorization)
+## 📫 Kontakt & Links
 
-👉 Repository: https://github.com/b2i0l0a3l/TaskManager
+* **GitHub:** [github.com/b2i0l0a3l](https://github.com/b2i0l0a3l)
+* **LinkedIn:** [Dein Link hier] (Empfohlen für die Suche in Deutschland!)
 
-🔹 POS System
-
-Fullstack Anwendung
-
-Backend: ASP.NET Core
-
-Frontend: Next.js
-
-Datenbank: PostgreSQL
-
-📊 GitHub Stats
-
-
-
-
-📫 Kontakt
-
-GitHub: https://github.com/b2i0l0a3l
-
-⚡ Motivation
-
-Ich bin sehr motiviert, meine Karriere als Entwickler in Deutschland zu starten.
-Ich suche eine Ausbildung, um meine Fähigkeiten weiterzuentwickeln und praktische Erfahrung zu sammeln.
+⚡ *Ich bin hoch motiviert, meine Karriere in Deutschland zu starten und mein Wissen in einem professionellen Umfeld einzubringen.*
