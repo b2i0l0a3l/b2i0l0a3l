@@ -37,6 +37,11 @@ Ich entwickle skalierbare Webanwendungen und strebe derzeit eine **Ausbildung al
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=flat-square)
 
+### 🔹 Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-blue)
+![CQRS](https://img.shields.io/badge/CQRS-Pattern-purple)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-green)
+![REST API](https://img.shields.io/badge/REST-API-orange)
 ---
 
 ## 🧠 Projekte
