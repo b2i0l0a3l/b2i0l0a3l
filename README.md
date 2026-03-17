@@ -33,9 +33,7 @@ Ich entwickle skalierbare Webanwendungen und strebe derzeit eine **Ausbildung al
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Konzepte & Tools
-![SOLID](https://img.shields.io/badge/SOLID-Principles-green?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=flat-square)
 
 ### 🔹 Architecture & Patterns
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-blue)
@@ -60,7 +58,6 @@ Ich entwickle skalierbare Webanwendungen und strebe derzeit eine **Ausbildung al
 ---
 
 ## 📊 GitHub Stats
-![Bilals GitHub Stats](https://github-readme-stats.vercel.app/api?username=b2i0l0a3l&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b2i0l0a3l&layout=compact&theme=radical)
 
 ---
