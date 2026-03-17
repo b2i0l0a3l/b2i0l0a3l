@@ -1,47 +1,63 @@
-# 👋 Hi there, I'm Bilal El Amraoui  
+👋 Hallo, ich bin Bilal
 
-### 💻 Software Developer | .NET | C# | RESTful APIs | Clean Code  
+💻 Backend-Entwickler aus Marokko
+Ich spezialisiere mich auf die Entwicklung von REST APIs mit ASP.NET Core und arbeite mit modernen Technologien wie PostgreSQL und Next.js.
 
-I'm a passionate **Software Developer** who enjoys turning ideas into clean, maintainable, and efficient applications.  
-I love working with **C#**, **.NET**, and **Entity Framework**, and I’m always seeking to improve my skills and explore new technologies.  
+🚀 Über mich
 
----
+🎯 Ziel: Ausbildung als Fachinformatiker (Anwendungsentwicklung) in Deutschland
 
-### 🧠 **Tech Stack & Skills**
+💡 Fokus: Backend-Entwicklung & saubere Architektur
 
-#### 🧩 **Languages & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css,js" alt="Languages" />
-</p>
+🔐 Erfahrung mit Authentifizierung (JWT) und Datenbanken
 
-#### 💾 **Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
+⚡ Ich lerne schnell und arbeite gerne an echten Projekten
 
-#### ⚙️ **Core Principles**
-- **OOP (Object-Oriented Programming)**  
-- **SOLID Principles**  
-- **Clean Architecture**  
-- **RESTful API Design**
-
----
-
-### 🚀 **What I’m passionate about**
-I’m driven by the challenge of solving complex problems with elegant code.  
-I believe in **writing clean, testable software** that is easy to maintain and scale.  
-For me, programming isn’t just a job — it’s a craft that I’m continuously improving.  
-
----
-
-### 📫 **Get in touch**
-- ✉️ Feel free to connect and collaborate on exciting projects!
-
----
+💻 Technologien & Tools
+![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-green?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
 
 
-### 💡 **Favorite Programming Quote**
-> **“Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
-⭐ *“Code with clarity, learn with curiosity, and build with passion.”*
+
+
+
+
+🧠 Projekte
+🔹 Task Manager API
+
+REST API mit ASP.NET Core
+
+Benutzer-Authentifizierung mit JWT
+
+PostgreSQL Datenbank
+
+Rollen & Berechtigungen (Authorization)
+
+👉 Repository: https://github.com/b2i0l0a3l/TaskManager
+
+🔹 POS System
+
+Fullstack Anwendung
+
+Backend: ASP.NET Core
+
+Frontend: Next.js
+
+Datenbank: PostgreSQL
+
+📊 GitHub Stats
+
+
+
+
+📫 Kontakt
+
+GitHub: https://github.com/b2i0l0a3l
+
+⚡ Motivation
+
+Ich bin sehr motiviert, meine Karriere als Entwickler in Deutschland zu starten.
+Ich suche eine Ausbildung, um meine Fähigkeiten weiterzuentwickeln und praktische Erfahrung zu sammeln.
