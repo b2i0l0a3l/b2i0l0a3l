@@ -65,6 +65,6 @@ Ich entwickle skalierbare Webanwendungen und strebe derzeit eine **Ausbildung al
 ## 📫 Kontakt & Links
 
 * **GitHub:** [github.com/b2i0l0a3l](https://github.com/b2i0l0a3l)
-* **LinkedIn:** [Dein Link hier] (Empfohlen für die Suche in Deutschland!)
+* **LinkedIn:** [linkedin.com/bilal-el-amraoui](https://www.linkedin.com/in/bilal-el-amraoui-631bb8247/)
 
 ⚡ *Ich bin hoch motiviert, meine Karriere in Deutschland zu starten und mein Wissen in einem professionellen Umfeld einzubringen.*
