@@ -7,7 +7,7 @@ Ich entwickle skalierbare Webanwendungen und strebe derzeit eine **Ausbildung al
 
 ## 🚀 Über mich
 
-* 🎯 **Ziel:** Ausbildung in der Softwareentwicklung (Start 2025/2026).
+* 🎯 **Ziel:** Ausbildung in der Softwareentwicklung.
 * 💡 **Fokus:** Backend-Architektur, Clean Code und Performance.
 * 🧠 **Problemlösung:** Ich liebe es, komplexe Logik in einfache, effiziente Lösungen zu verwandeln.
 * ⚡ **Agilität:** Schnelle Auffassungsgabe für neue Tech-Stacks und Arbeitsweisen.
