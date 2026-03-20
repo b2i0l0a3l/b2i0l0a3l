@@ -49,7 +49,7 @@ Ich entwickle skalierbare Webanwendungen und strebe derzeit eine **Ausbildung al
 * **Technologien:** ASP.NET Core, PostgreSQL, JWT Authentication.
 * **Features:** Rollenbasiertes Rechtesystem (RBAC), sichere Authentifizierung.
 
-### [POS System (Point of Sale)](https://github.com/b2i0l0a3l)
+### [POS System (Point of Sale)](https://github.com/b2i0l0a3l/Store)
 > Vollständige Fullstack-Anwendung für den Einzelhandel.
 * **Backend:** ASP.NET Core (Business Logic & API).
 * **Frontend:** Next.js für ein schnelles, SEO-optimiertes UI.
