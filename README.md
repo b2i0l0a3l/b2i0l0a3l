@@ -1,4 +1,6 @@
-# 👋 Hallo, ich bin Bilal
+# 👋 Hallo, ich bin <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Hallo+Ich+bin+Bilal;Web+Developer;Welcome+to+my+Profile" />
+</p>
 
 ### 💻 Backend- & Fullstack-Entwickler aus Marokko
 Ich entwickle skalierbare Webanwendungen und strebe derzeit eine **Ausbildung als Fachinformatiker für Anwendungsentwicklung** in Deutschland an.
