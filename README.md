@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=500&lines=👋Hallo+Ich+bin+Bilal;Fullstack-Entwickler" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=500&lines=👋Hallo+Ich+bin+Bilal;Fullstack-Entwickler" />
 </p>
 
 ### 💻 Backend- & Fullstack-Entwickler aus Marokko
