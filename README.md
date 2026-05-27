@@ -63,6 +63,7 @@ Ich entwickle skalierbare Webanwendungen und strebe derzeit eine **Ausbildung al
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b2i0l0a3l&layout=compact&theme=radical)
+![](https://komarev.com/ghpvc/?username=b2i0l0a3l)
 
 ---
 
